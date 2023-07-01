@@ -1,3 +1,3 @@
 about me , <br/>
 
-computer science student , passionate about programming and open source software
+computer science student , passionate about programming and building open source software
