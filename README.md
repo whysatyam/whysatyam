@@ -1,3 +1,1 @@
-about me , <br/>
-
-computer science student , passionate about programming and building open source software
+arranging 0s and 1s in just the right order
